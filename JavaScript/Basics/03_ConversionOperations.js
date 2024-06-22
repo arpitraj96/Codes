@@ -29,3 +29,21 @@ let stringData1 = String(score)
 
 console.table([booleanData, booleanData2, booleanData3, stringData, stringData1])
 
+/********************* Operations ********************/
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2/2);
+console.log(2%2);
+console.log(2**2);
+
+let str1 = "Arpit"
+let str2 = " Raj"
+console.log(str1+str2);
+console.log(1+2+"2");
+console.log("1"+2+2);
+console.log("1"+2);
+console.log(1+"2");
+
+// In JS all the basic arithmatic operations can be done
+// Prefix, Postfix, concatenation, assingments etc are similiar to other languages.
