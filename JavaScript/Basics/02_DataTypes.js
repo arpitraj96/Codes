@@ -51,3 +51,7 @@ myFunction()
 console.log(typeof arr);
 console.log(typeof myObj);
 console.log(typeof myFunction);
+
+
+// Stack => Primitive Data Types
+// Heap => Non-Primitive Data Types / Reference Data Types
