@@ -1,2 +1,2 @@
 # Codes
-All the codes through which you have learned.
+All the codes through which I have learned programming.
